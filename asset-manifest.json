@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-booking-build/static/css/main.5b922a62.css",
+    "main.js": "/food-booking-build/static/js/main.d8442f71.js",
+    "index.html": "/food-booking-build/index.html",
+    "main.5b922a62.css.map": "/food-booking-build/static/css/main.5b922a62.css.map",
+    "main.d8442f71.js.map": "/food-booking-build/static/js/main.d8442f71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b922a62.css",
+    "static/js/main.d8442f71.js"
+  ]
+}
